@@ -36,13 +36,15 @@ Happy Coding! 💻✨
   <h1>Welcome to Our Multimedia Page</h1>
   <h2>Audio Example</h2>
   <audio controls>
-   <source src="" type="">
-   <source src="" type="">
+   <source src="audio.mp3" type="audio/mpeg">
+   <source src="audio.ogg" type="audio/ogg">
+   Your browser does not support the audio element.
   </audio>
 <h2>Video Example</h2>
   <video controls width="640" height"360">
-   <source src="" type "">
-   <source src="" type="">
+   <source src="video.mp4" type="video/mp4">
+   <source src="video.webm" type="video/webm">
+   Your browser does not support the video element.
  </body>
 </html>
 
@@ -100,6 +102,88 @@ Happy Coding! 💻✨
 </html>
 
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Embedding an Image</title>
+</head>
+<body>
+  <h1>Here's an Image</h1>
+  <img src="image.jpg" alt="Description of the image" width="500">
+</body>
+</html>
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Embedding a Table</title>
+</head>
+<body>
 
+  <h2>Sample Data Table</h2>
 
+  <table>
+    <caption>Student Grades</caption>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Subject</th>
+        <th>Grade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Alice</td>
+        <td>Math</td>
+        <td>A</td>
+      </tr>
+      <tr>
+        <td>Bob</td>
+        <td>Science</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>Charlie</td>
+        <td>History</td>
+        <td>C</td>
+      </tr>
+    </tbody>
+  </table>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Creating an Unordered List</title>
+</head>
+<body>
+
+  <h2>My Favorite Fruits</h2>
+  <ul>
+    <li>Apples</li>
+    <li>Bananas</li>
+    <li>Oranges</li>
+    <li>Grapes</li>
+  </ul>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Creating an Ordered List</title>
+</head>
+<body>
+  <h2>Steps to Make Tea</h2>
+  <ol>
+    <li>Boil water.</li>
+    <li>Place tea bag in a cup.</li>
+    <li>Pour hot water into the cup.</li>
+    <li>Steep for 3-5 minutes.</li>
+    <li>Add milk and sugar if desired.</li>
+  </ol>
+</body>
+</html>
