@@ -119,9 +119,7 @@ Happy Coding! 💻✨
   <title>Embedding a Table</title>
 </head>
 <body>
-
   <h2>Sample Data Table</h2>
-
   <table>
     <caption>Student Grades</caption>
     <thead>
@@ -149,7 +147,6 @@ Happy Coding! 💻✨
       </tr>
     </tbody>
   </table>
-
 </body>
 </html>
 
@@ -159,7 +156,6 @@ Happy Coding! 💻✨
   <title>Creating an Unordered List</title>
 </head>
 <body>
-
   <h2>My Favorite Fruits</h2>
   <ul>
     <li>Apples</li>
@@ -167,7 +163,6 @@ Happy Coding! 💻✨
     <li>Oranges</li>
     <li>Grapes</li>
   </ul>
-
 </body>
 </html>
 
